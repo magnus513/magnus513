@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+Welcome to Magnus github profile 😄
+
+Info:
+- Freelancer since 2018. Owner of [AoOo DATA AB](http://aooodata.com/).
+- I love open source code, blockchain, DevOps, Cloud.
+- I also love sports: [Crossfit](https://crossfitmedis.se/) and running.
+- More info on my [linkedin](https://www.linkedin.com/in/magnus-o-6329bb19/)
+
 <!--
 **magnus513/magnus513** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
